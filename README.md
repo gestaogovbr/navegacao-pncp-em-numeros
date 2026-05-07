@@ -6,7 +6,7 @@ Este repositório consolida a narração estruturada por capítulos, descrevendo
 
 ## Estrutura
 
-- [compras publicadas/historia_capitulo_01_compras_publicadas.md](compras%20publicadas/historia_capitulo_01_compras_publicadas.md) — Capítulo 1: compras publicadas. Conceito, base legal (Lei 14.133/2021), estados jurídicos, recorte temporal, recortes macro/micro, outliers e filtros derivados dos itens.
+- [compras_publicadas/historia_capitulo_01_compras_publicadas.md](compras_publicadas/historia_capitulo_01_compras_publicadas.md) — Capítulo 1: compras publicadas. Conceito, base legal (Lei 14.133/2021), estados jurídicos, recorte temporal, recortes macro/micro, outliers e filtros derivados dos itens.
 - [contratacoes_homologadas/historia_capitulo_02_compras_homologadas.md](contratacoes_homologadas/historia_capitulo_02_compras_homologadas.md) — Capítulo 2: compras homologadas. Mudança do outlier para valor homologado, marco temporal pelo primeiro item com resultado, *slowly changing dimension* e filtros de resultado (fornecedor, origem, porte, margem de preferência).
 
 ## Status
