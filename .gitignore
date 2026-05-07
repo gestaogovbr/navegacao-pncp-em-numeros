@@ -1,0 +1,9 @@
+transcricoes_*.md
+transcricoes_*.txt
+**/transcricoes_*
+bkp/
+*.swp
+*.swo
+.DS_Store
+.vscode/
+.idea/
